@@ -1,18 +1,25 @@
-# CareerIQ-AI-Powered-Full-Stack-Career-Guidance-System
-CareerIQ is a full-stack web application that suggests career paths based on user skills using a simple rule-based logic with React frontend and Spring Boot backend.
+# 🚀 CareerIQ – AI-Powered Career Guidance System
 
-## Tech Stack
-- Java Spring Boot
-- React JS
-
-## Features
-- Skill based career suggestion
-- Simple AI logic
-- Score system
-
-## Run
-Backend: mvn spring-boot:run  
-Frontend: npm run dev
+An interactive Java Swing-based desktop application that suggests suitable career paths based on user-entered skills.
 
 ## 📸 Project Screenshot
+
 ![CareerIQ Dashboard](screenshots/dashboard1.png)
+
+## 💡 Features
+- Skill-based career recommendations
+- AI-inspired rule-based decision logic
+- Skill match score calculation
+- Interactive Java Swing GUI
+- Personalized career suggestions
+
+## 🛠️ Tech Stack
+- Java
+- Swing (GUI)
+- OOP Concepts
+- Event Handling
+
+## ▶️ How to Run
+1. Clone the repository
+2. Open the project in any Java IDE
+3. Run the main Java file

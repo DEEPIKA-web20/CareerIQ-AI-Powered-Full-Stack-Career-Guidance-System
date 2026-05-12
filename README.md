@@ -13,3 +13,6 @@ CareerIQ is a full-stack web application that suggests career paths based on use
 ## Run
 Backend: mvn spring-boot:run  
 Frontend: npm run dev
+
+## 📸 Project Screenshot
+![CareerIQ Dashboard](screenshots/dashboard1.png)
